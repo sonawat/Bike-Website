@@ -1,0 +1,23 @@
+.i
+{
+    min-height: 520px;
+    margin: 20px 20px 20px 20px ;
+    border-radius: 10px;
+    border: 1px solid silver;
+}
+.j
+{
+    border-bottom: 1px solid silver;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.k
+{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    padding-top: 28px;
+}

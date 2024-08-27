@@ -1,0 +1,37 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.e
+{
+    margin-top: 125px;
+    min-width: 705px;
+    min-height: 80vh;
+    background-color: red;
+
+}
+
+.f
+{
+    max-width: 29vw;
+    min-height: 69vh;
+    background-color: white;
+    margin: 35px 0 0 80px;
+    border-radius: 20px;
+    padding: 20px;
+    float: left;
+}
+.h
+{
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 425px;
+    float: left;
+}
+.g::placeholder
+{
+    color: aliceblue;
+    font-weight: bold;
+}
